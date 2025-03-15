@@ -1,0 +1,23 @@
+[
+    {
+        "Title": "Think and Grow Rich",
+        "Author": "Napoleon Hill",
+        "Year": 2007,
+        "Genre": "personal development ",
+        "Read": false
+    },
+    {
+        "Title": "The 10X Rule",
+        "Author": "Grant Cardone",
+        "Year": 2011,
+        "Genre": " Business",
+        "Read": false
+    },
+    {
+        "Title": "The 5 AM Club",
+        "Author": "Robin Sharma",
+        "Year": 2018,
+        "Genre": "Self Help",
+        "Read": true
+    }
+]
